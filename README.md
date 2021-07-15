@@ -7,6 +7,6 @@ pollution in the surroundings, as the name suggests. The detection is in terms o
 ppm value of the pollutants the sensor can detect, and then those ppm values can 
 be used to monitor the environment, based on standard safety values.
 
-So we done one project and that's our project video link.
-\n Youtube link: https://www.youtube.com/watch?v=yISQ8u4umgk
+So we done one project and that's our project video link.  
+Youtube link: https://www.youtube.com/watch?v=yISQ8u4umgk  
 Video link: https://drive.google.com/file/d/1YZZs4yJUtybmHkhoGiP37TpZsxE61uqS/view?usp=drivesdk
